@@ -1,0 +1,32 @@
+{
+  "negocio": "Easy Shopping",
+  "descripcion": "Catálogo de Lentes Premium",
+  "whatsapp": "+50368211667",
+  "precio": "$35",
+  "productos": [
+    {
+      "marca": "Ray-Ban",
+      "imagen": "images/Ray-Ban/imagen1.jpg"
+    },
+    {
+      "marca": "Ray-Ban",
+      "imagen": "images/Ray-Ban/imagen2.jpg"
+    },
+    {
+      "marca": "Ray-Ban",
+      "imagen": "images/Ray-Ban/imagen3.jpg"
+    },
+    {
+      "marca": "Oakley",
+      "imagen": "images/Oakley/imagen1.jpg"
+    },
+    {
+      "marca": "Oakley",
+      "imagen": "images/Oakley/imagen2.jpg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen1.jpg"
+    }
+  ]
+}
