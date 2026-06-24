@@ -1,0 +1,308 @@
+{
+  "negocio": "Easy Shopping",
+  "descripcion": "Catálogo de Lentes Premium",
+  "whatsapp": "+50368211667",
+  "precio": "$35",
+  "productos": [
+    {
+      "marca": "Burberry",
+      "imagen": "images/Burberry/imagen1.jpeg"
+    },
+    {
+      "marca": "Burberry",
+      "imagen": "images/Burberry/imagen2.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen1.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen2.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen3.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen4.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen5.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen6.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen7.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen8.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen9.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen10.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen11.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen12.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen13.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen14.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen15.jpeg"
+    },
+    {
+      "marca": "Cartier",
+      "imagen": "images/Cartier/imagen16.jpeg"
+    },
+    {
+      "marca": "Dior",
+      "imagen": "images/Dior/imagen1.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen1.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen2.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen3.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen4.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen5.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen6.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen7.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen8.jpeg"
+    },
+    {
+      "marca": "Gucci",
+      "imagen": "images/Gucci/imagen9.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen1.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen2.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen3.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen4.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen5.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen6.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen7.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen8.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen9.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen10.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen11.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen12.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen13.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen14.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen15.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen16.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen17.jpeg"
+    },
+    {
+      "marca": "Louis Vuitton",
+      "imagen": "images/Louis Vuitton/imagen18.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen1.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen2.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen3.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen4.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen5.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen6.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen7.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen8.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen9.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen10.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen11.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen12.jpeg"
+    },
+    {
+      "marca": "Prada",
+      "imagen": "images/Prada/imagen13.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen1.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen2.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen3.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen4.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen5.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen6.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen7.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen8.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen9.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen10.jpeg"
+    },
+    {
+      "marca": "Ray Ban",
+      "imagen": "images/Ray Ban/imagen11.jpeg"
+    },
+    {
+      "marca": "Versace",
+      "imagen": "images/Versace/imagen1.jpeg"
+    },
+    {
+      "marca": "Versace",
+      "imagen": "images/Versace/imagen2.jpeg"
+    },
+    {
+      "marca": "Versace",
+      "imagen": "images/Versace/imagen3.jpeg"
+    },
+    {
+      "marca": "Versace",
+      "imagen": "images/Versace/imagen4.jpeg"
+    },
+    {
+      "marca": "Versace",
+      "imagen": "images/Versace/imagen5.jpeg"
+    }
+  ]
+}
