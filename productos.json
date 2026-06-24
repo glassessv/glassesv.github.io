@@ -76,6 +76,6 @@
     { "marca": "Versace", "codigo": "VER-002", "imagen": "images/Versace/imagen2.jpeg" },
     { "marca": "Versace", "codigo": "VER-003", "imagen": "images/Versace/imagen3.jpeg" },
     { "marca": "Versace", "codigo": "VER-004", "imagen": "images/Versace/imagen4.jpeg" },
-    { "marca": "Versace", "codigo": "VER-005", "imagen": "images/Versace/imagen5.jpeg" }
+    
   ]
 }
